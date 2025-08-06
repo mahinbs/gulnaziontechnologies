@@ -133,7 +133,7 @@ const Testimonials = () => {
                 </div>
                 <div className="flex flex-col">
                   <p className="font-semibold text-gray-800 text-sm">{item.name}</p>
-                  <p className="text-gray-600 text-xs">{item.role}</p>
+                  {/*<p className="text-gray-600 text-xs">{item.role}</p>*/}
                 </div>
               </div>
             </div>
